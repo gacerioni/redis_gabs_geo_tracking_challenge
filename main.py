@@ -280,4 +280,4 @@ if __name__ == '__main__':
     logger.info("Starting main function...")
     main()
     logger.info("Main function complete!")
-    logger.info("Bye!")
+    logger.info("Exiting now!")
